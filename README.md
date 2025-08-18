@@ -29,7 +29,7 @@ Built with **HTML**, **CSS**, and **JavaScript**.
 ## 📝 How tu Use
 1. Click start to begin the 25 minutes countdown.
 2. Use Pause to temporarily stop the timer.
-3. Use Reset to restart the timer to the full 25 minutes
+3. Use Reset to restart the timer to the full 25 minutes.
 
 ## 📜 License
 This project is licensed under the **MIT License** — you can use, modify, and share it freely.
